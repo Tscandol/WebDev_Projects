@@ -10,3 +10,6 @@ Technologies used during this projects are :
 Credits, thanks to all the people making this journey easier 😉  :  
 https://www.traversymedia.com/  
 https://tech2etc.com/  
+https://www.youtube.com/c/javascriptmastery  
+https://www.w3schools.com/  
+https://fr.khanacademy.org/  
